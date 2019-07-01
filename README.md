@@ -1,2 +1,2 @@
-# learn-githun
+# learn-github
 throwaway repo to learn git and github
